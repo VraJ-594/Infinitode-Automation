@@ -1,0 +1,42 @@
+--- New Mapping Session (Sat May  2 12:52:59 2026) ---
+rel_x=957, rel_y=607  | (Absolute: 957, 607)  → Exp Card
+rel_x=607, rel_y=465  | (Absolute: 603, 465)  → UNUSED (not referenced in code)
+rel_x=674, rel_y=306  | (Absolute: 674, 306)  → UNUSED (not referenced in code)
+
+--- New Mapping Session (Sat May  2 13:14:35 2026) ---
+rel_x=1898, rel_y=728  | (Absolute: 1898, 728) → Scroll Anchor (level selection scroll)
+
+--- New Mapping Session (Sat May  2 13:52:52 2026) ---
+rel_x=863, rel_y=515  | (Absolute: 863, 515)  → Yellow Miner (delete_build)
+rel_x=959, rel_y=560  | (Absolute: 959, 560)  → Crusher
+rel_x=242, rel_y=1004 | (Absolute: 242, 1004) → Speed-Up Button
+
+--- New Mapping Session (Sat May  2 14:34:23 2026) ---
+rel_x=768, rel_y=508  | (Absolute: 768, 508)  → Green Speed Card
+rel_x=771, rel_y=378  | (Absolute: 771, 378)  → Blue Miner
+rel_x=817, rel_y=370  | (Absolute: 817, 370)  → Blue Speed Card
+
+--- New Mapping Session (Sat May  2 14:42:41 2026) ---
+rel_x=718, rel_y=468  | (Absolute: 718, 468)  → Green Miner / Cyan Miner (shared position)
+
+--- New Mapping Session (Sat May  2 14:44:46 2026) ---
+(No coordinates captured)
+
+--- New Mapping Session (Sat May  2 15:47:50 2026) ---
+rel_x=78, rel_y=69    | (Absolute: 78, 69)    → Pause Menu (older approx)
+rel_x=1634, rel_y=893 | (Absolute: 1634, 893) → End Game Button (older approx)
+rel_x=1506, rel_y=742 | (Absolute: 1506, 742) → Confirm End (older approx)
+rel_x=645, rel_y=788  | (Absolute: 645, 788)  → Continue / Confirm (older approx)
+rel_x=82, rel_y=1021  | (Absolute: 82, 1021)  → Back Button
+
+--- New Mapping Session (Sat May  2 16:20:21 2026) ---
+rel_x=65, rel_y=80    | (Absolute: 65, 80)    → Pause Menu (final)
+rel_x=1611, rel_y=886 | (Absolute: 1611, 886) → End Game Button (final)
+rel_x=1512, rel_y=750 | (Absolute: 1512, 750) → Confirm End
+rel_x=654, rel_y=791  | (Absolute: 654, 791)  → Continue / Confirm
+rel_x=394, rel_y=65   | (Absolute: 394, 65)   → Dismiss Reward Screen
+rel_x=86, rel_y=1016  | (Absolute: 86, 1016)  → Back Button (slight variant)
+
+--- New Mapping Session (Sat May  2 20:09:53 2026) ---
+rel_x=861, rel_y=608  | (Absolute: 861, 608)  → Crusher2
+rel_x=1054, rel_y=606 | (Absolute: 1054, 606) → Freezer
